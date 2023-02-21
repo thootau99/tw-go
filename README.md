@@ -14,3 +14,9 @@ A self-use Taiwanese input engine
 ### tekpiat li
 * oo
 * nn
+
+### Exmaple
+
+Goax hooq chox thooy tauq
+
+Thiann kongx linx tau choed kunq uq langy chhut ked
