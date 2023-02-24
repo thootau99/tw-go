@@ -1,0 +1,12 @@
+version: "3"
+services:
+  go:
+    image: golang:bullseye
+    volumes:
+      - .:/src/app
+    command:
+      - /bin/bash
+    tty: true
+    ports:
+      - 2345:2345
+      - 6379:6379
